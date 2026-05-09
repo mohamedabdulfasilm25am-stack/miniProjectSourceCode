@@ -1,0 +1,13 @@
+Acc:99 | Amount: 788880.00 | Balance: 1568880.00
+Acc:99 | Amount: -1000000.00 | Balance: 568880.00
+Acc:99 | Amount: -5000.00 | Balance: 563880.00
+Acc:99 | Amount: 2000.00 | Balance: 565880.00
+Acc:99 | Amount: -2000.00 | Balance: 563880.00
+Acc:69 | Amount: -69.00 | Balance: 6900.00
+Acc:9 | Amount: 5000.00 | Balance: 9000.00
+Acc:9 | Amount: 30000.00 | Balance: 39000.00
+Acc:2006 | Amount: -6000.00 | Balance: 494000.00
+Acc:2006 | Amount: 3000.00 | Balance: 497000.00
+Acc:2006 | Amount: -3000.00 | Balance: 494000.00
+Acc:2006 | Amount: 1000.00 | Balance: 495000.00
+Acc:2006 | Amount: -1000.00 | Balance: 494000.00
